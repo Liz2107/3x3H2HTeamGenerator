@@ -1,2 +1,63 @@
-Elizabeth Cutting 12.10
-Stone Amsbaugh 11.10
+1 	Jacob Nokes 	2017NOKE01 	United States 	7.24 	168 	5.91 	295 	
+2 	Jack Bellomy 	2019BELL10 	United States 	8.02 	484 	7.23 	1439 	
+3 	Abhi Chawla 	2019CHAW01 	United States 	10.33 	3623 	8.36 	3516 	
+4 	David Brady 	2018BRAD07 	United States 	10.40 	3783 	8.19 	3117 	
+5 	Jacob Fleishauer 	2018FLEI02 	United States 	10.66 	4400 	8.23 	3213 	
+6 	Andres Rodriguez 	2015RODR01 	United States 	10.85 	4876 	8.19 	3117 	
+7 	Stone Amsbaugh 	2018AMSB02 	United States 	11.20 	5916 	8.71 	4418 	
+8 	Kaemon Vita 	2021VITA01 	United States 	11.30 	6199 	8.46 	3765 	
+9 	Elizabeth Cutting 	2019CUTT01 	United States 	12.15 	8935 	10.35 	10413 	
+10 	Cylas Ogea 	2022OGEA01 	United States 	12.69 	10982 	10.45 	10873 	
+11 	Reid James Sungy 	2021SUNG02 	United States 	12.84 	11569 	10.63 	11686 	
+12 	Christian Muña 	2022MUNA01 	United States 	13.00 	12217 	10.54 	11246 	
+13 	Luke Meszar 	2016MESZ01 	United States 	13.06 	12524 	10.04 	9047 	
+14 	Caleb Valencia 	2022VALE09 	United States 	13.70 	15265 	11.66 	16873 	
+15 	Braden Young 	2021YOUN04 	United States 	13.95 	16386 	11.36 	15216 	
+16 	Keenan Bruce 	2019BRUC01 	United States 	14.42 	18537 	11.17 	14245 	
+17 	Broderick L. Bullock 	2019BULL01 	United States 	14.55 	19146 	11.29 	14866 	
+18 	Alex Aguayo 	2022AGUA01 	United States 	14.74 	20098 	10.88 	12821 	
+19 	Luke Grieshaber 	2021GRIE02 	United States 	14.78 	20296 	12.50 	21599 	
+20 	Nick McCallister 	2022MCCA01 	United States 	14.91 	20902 	12.73 	22968 	
+21 	Ronaldo Zavala 	2019ZAVA01 	United States 	15.31 	22823 	12.20 	19937 	
+22 	Ethan Jeffries 	2021JEFF02 	United States 	16.01 	26229 	14.43 	32755 	
+23 	Camilo Ernesto DeGeest 	2022DEGE01 	United States 	16.25 	27409 	13.77 	28933 	
+24 	Ryker Phelps 	2022PHEL01 	United States 	16.88 	30479 	12.69 	22739 	
+25 	Isaiah Lanan 	2022LANA01 	United States 	17.36 	32939 	15.11 	36716 	
+26 	Jeremiah Haugan 	2022HAUG01 	United States 	17.37 	32993 	14.00 	30240 	
+27 	William Mitchell 	2022MITC01 	United States 	17.70 	34600 	13.58 	27872 	
+28 	Liam Finn McCool Kelly 	2020KELL01 	United States 	17.97 	35891 	15.14 	36870 	
+29 	Preston Hoing 	2019HOIN01 	United States 	18.45 	38143 	13.34 	26438 	
+30 	Luke Axisa 	2019AXIS01 	United States 	18.80 	39676 	15.88 	40967 	
+31 	Marc Herrera 	2022HERR03 	United States 	19.41 	42459 	18.41 	54264 	
+32 	Junior Solis 	2022SOLI03 	United States 	20.32 	46386 	15.91 	41129 	
+33 	Miles Kemp 	2022KEMP01 	United States 	20.64 	47787 	17.48 	49545 	
+34 	Elliott Crane 	2022CRAN01 	United States 	20.74 	48229 	16.49 	44286 	
+35 	Kian Cline 	2022CLIN01 	United States 	21.11 	49860 	14.19 	31351 	
+36 	James Beauregard 	2022BEAU05 	United States 	21.35 	50895 	19.11 	57629 	
+37 	Doug Cannon 	2012CANN01 	United States 	22.15 	54171 	18.33 	53831 	
+38 	Rocco Jan DeGeest 	2022DEGE02 	United States 	23.20 	58463 	19.55 	59765 	
+39 	Calvin Leech 	2022LEEC01 	United States 	23.34 	59044 	20.27 	63210 	
+40 	Eashan Tilaye 	2022TILA01 	United States 	24.13 	62139 	21.00 	66547 	
+41 	Dexter Gibson 	2022GIBS02 	United States 	24.19 	62386 	18.75 	55962 	
+42 	Patrick Jansen 	2022JANS03 	United States 	24.29 	62788 	20.69 	65135 	
+43 	Dan Otteni 	2022OTTE02 	United States 	24.86 	64923 	21.94 	70825 	
+44 	Luke Ripperger 	2022RIPP01 	United States 	25.07 	65743 	19.24 	58252 	
+45 	Mateus L. Ostrander 	2022OSTR01 	United States 	25.78 	68299 	20.64 	64923 	
+46 	Logan Key 	2022KEYL01 	United States 	25.84 	68512 	21.35 	68208 	
+47 	Porter John Schaff 	2022SCHA07 	United States 	27.54 	74311 	23.93 	78918 	
+48 	Alden Bradley 	2022BRAD01 	United States 	27.62 	74572 	25.00 	82873 	
+49 	Simha Vinnakota 	2022VINN02 	United States 	28.13 	76297 	27.16 	90323 	
+50 	Ramses Valentin 	2022VALE01 	United States 	29.90 	81745 	23.63 	77697 	
+51 	Cameron Popp 	2022POPP02 	United States 	30.11 	82365 	23.28 	76334 	
+52 	Jayden K Grotluschen 	2021GROT01 	United States 	30.55 	83589 	24.43 	80853 	
+53 	Henry Krause 	2022KRAU02 	United States 	31.48 	86253 	28.23 	93802 	
+54 	Colin Davenport 	2022DAVE01 	United States 	31.96 	87581 	16.98 	46825 	
+55 	Luke Roberts 	2022ROBE16 	United States 	33.49 	91699 	27.73 	92245 	
+56 	Orrin Simpkins 	2017SIMP01 	United States 	34.36 	93889 	31.34 	102747 	
+57 	Joey Suckow 	2022SUCK01 	United States 	37.17 	100545 	33.38 	108093 	
+58 	Sage Kelley 	2022KELL13 	United States 	38.93 	104296 	31.98 	104476 	
+59 	Taren White 	2021WHIT02 	United States 	39.75 	106015 	30.26 	99783 	
+60 	Shivaan Vinnakota 	2022VINN01 	United States 	45.01 	115667 	43.43 	128255 	
+61 	Michael Jayse Kelm 	2022KELM01 	United States 	53.09 	127427 	43.22 	127925 	
+62 	Knox Rogness 	2022ROGN01 	United States 	53.52 	127963 	48.18 	134883
+63	Random Filler 	2013ABCD01	Untied States 	58.43	130000	55.89	145898
