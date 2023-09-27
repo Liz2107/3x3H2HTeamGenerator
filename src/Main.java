@@ -90,11 +90,6 @@ public class Main
 		}
 	}
 	
-	public static void generateCompetitive()
-	{
-		
-	}
-	
 	public static void generateRanked()
 	{
 		int teamNum = 1;
